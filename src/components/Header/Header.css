@@ -1,0 +1,41 @@
+.month-name {
+    width: 242px;
+    height: 36px;
+    margin-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 99.5%;
+    color: #FFFFFF;
+}
+
+.header {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.arrows {
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.header-buttons {
+    width: auto;
+    height: 31px;
+    background: #D9DAF3;
+    border-radius: 7px;
+    border: none;
+    margin-left: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 99.5%;
+    text-align: center;
+    color: #2D224C;
+}
