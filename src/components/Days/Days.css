@@ -3,15 +3,18 @@
   grid-template-columns: auto auto auto auto auto auto auto;
   background-color: #2D224C;
   padding: 10px;
+  width: auto;
 }
 
 .grid-item {
+  text-align: center;
   height: 171px;
   background: #FFFFFF;
   border-radius: 5px;
   display: flex;
   padding: 10px;
   margin: 2px;
+  width: auto;
 }
 
 .week-day-name {
@@ -23,4 +26,12 @@
   line-height: 100.5%;
   color: #FFFFFF;
   margin-bottom: 5px;
+}
+
+.day-today {
+  width: 21px;
+  height: 21px;
+  background: #D4145A;
+  color: white;
+  border-radius: 50%;
 }

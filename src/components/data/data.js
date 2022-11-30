@@ -1,214 +1,144 @@
 const arr = [
     {
-        date: "01-10-2022",
-        title: "Day 1",
-        status: true,
-        task: "Make a gym"
+        day: 1,
+        month: "October",
     },
     {
-        date: "02-10-2022",
-        title: "Day 2",
-        status: true,
-        task: "Make a gym"
+        day: 2,
+        month: "October",
     },
     {
-        date: "03-10-2022",
-        title: "Day 3",
-        status: true,
-        task: "Make a gym"
+        day: 3,
+        month: "October",
     },
     {
-        date: "04-10-2022",
-        title: "Day 4",
-        status: true,
-        task: "Make a gym"
+        day: 4,
+        month: "October",
     },
     {
-        date: "05-10-2022",
-        title: "Day 5",
-        status: true,
-        task: "Make a gym"
+        day: 5,
+        month: "October",
     },
     {
-        date: "06-10-2022",
-        title: "Day 6",
-        status: true,
-        task: "Make a gym"
+        day: 6,
+        month: "October",
     },
     {
-        date: "07-10-2022",
-        title: "Day 7",
-        status: true,
-        task: "Make a gym"
+        day: 7,
+        month: "October",
     },
     {
-        date: "08-10-2022",
-        title: "Day 8",
-        status: true,
-        task: "Make a gym"
+        day: 8,
+        month: "October",
     },
     {
-        date: "09-10-2022",
-        title: "Day 9",
-        status: true,
-        task: "Make a gym"
+        day: 9,
+        month: "October",
     },
     {
-        date: "10-10-2022",
-        title: "Day 10",
-        status: true,
-        task: "Make a gym"
+        day: 10,
+        month: "October",
+    },    
+    {
+        day: 11,
+        month: "October",
     },
     {
-        date: "11-10-2022",
-        title: "Day 10",
-        status: true,
-        task: "Make a gym"
+        day: 12,
+        month: "October",
     },
     {
-        date: "12-10-2022",
-        title: "Day 10",
-        status: true,
-        task: "Make a gym"
+        day: 13,
+        month: "October",
     },
     {
-        date: "13-10-2022",
-        title: "Day 13",
-        status: true,
-        task: "Make a gym"
+        day: 14,
+        month: "October",
     },
     {
-        date: "14-10-2022",
-        title: "Day 14",
-        status: true,
-        task: "Make a gym"
+        day: 15,
+        month: "October",
     },
     {
-        date: "15-10-2022",
-        title: "Day 15",
-        status: true,
-        task: "Make a gym"
+        day: 16,
+        month: "October",
     },
     {
-        date: "16-10-2022",
-        title: "Day 16",
-        status: true,
-        task: "Make a gym"
+        day: 17,
+        month: "October",
     },
     {
-        date: "17-10-2022",
-        title: "Day 17",
-        status: true,
-        task: "Make a gym"
+        day: 18,
+        month: "October",
     },
     {
-        date: "18-10-2022",
-        title: "Day 18",
-        status: true,
-        task: "Make a gym"
+        day: 19,
+        month: "October",
     },
     {
-        date: "19-10-2022",
-        title: "Day 19",
-        status: true,
-        task: "Make a gym"
+        day: 20,
+        month: "October",
     },
     {
-        date: "20-10-2022",
-        title: "Day 20",
-        status: true,
-        task: "Make a gym"
+        day: 21,
+        month: "October",
     },
     {
-        date: "21-10-2022",
-        title: "Day 21",
-        status: true,
-        task: "Make a gym"
+        day: 22,
+        month: "October",
     },
     {
-        date: "22-10-2022",
-        title: "Day 22",
-        status: true,
-        task: "Make a gym"
+        day: 23,
+        month: "October",
     },
     {
-        date: "23-10-2022",
-        title: "Day 23",
-        status: true,
-        task: "Make a gym"
+        day: 24,
+        month: "October",
     },
     {
-        date: "24-10-2022",
-        title: "Day 24",
-        status: true,
-        task: "Make a gym"
+        day: 25,
+        month: "October",
     },
     {
-        date: "25-10-2022",
-        title: "Day 25",
-        status: true,
-        task: "Make a gym"
+        day: 26,
+        month: "October",
     },
     {
-        date: "26-10-2022",
-        title: "Day 26",
-        status: true,
-        task: "Make a gym"
+        day: 27,
+        month: "October",
     },
     {
-        date: "27-10-2022",
-        title: "Day 27",
-        status: true,
-        task: "Make a gym"
+        day: 28,
+        month: "October",
     },
     {
-        date: "28-10-2022",
-        title: "Day 28",
-        status: true,
-        task: "Make a gym"
+        day: 29,
+        month: "October",
     },
     {
-        date: "29-10-2022",
-        title: "Day 29",
-        status: true,
-        task: "Make a gym"
+        day: 30,
+        month: "October",
     },
     {
-        date: "30-10-2022",
-        title: "Day 30",
-        status: true,
-        task: "Make a gym"
+        day: 31,
+        month: "October",
     },
     {
-        date: "31-10-2022",
-        title: "Day 30",
-        status: true,
-        task: "Make a gym"
+        day: 1,
+        month: "November",
     },
     {
-        date: "01-11-2022",
-        title: "Day 31",
-        status: true,
-        task: "Make a gym"
+        day: 2,
+        month: "November",
     },
     {
-        date: "02-11-2022",
-        title: "Day 32",
-        status: true,
-        task: "Make a gym"
+        day: 3,
+        month: "November",
     },
     {
-        date: "03-11-2022",
-        title: "Day 33",
-        status: true,
-        task: "Make a gym"
-    },
-    {
-        date: "04-11-2022",
-        title: "Day 34",
-        status: true,
-        task: "Make a gym"
-    },
+        day: 4,
+        month: "November",
+    }
 ]
 
 export default arr;
