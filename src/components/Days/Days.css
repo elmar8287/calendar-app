@@ -11,10 +11,9 @@
   height: 171px;
   background: #FFFFFF;
   border-radius: 5px;
-  display: flex;
   padding: 10px;
   margin: 2px;
-  width: auto;
+  width: 175px;
 }
 
 .week-day-name {
@@ -29,7 +28,7 @@
 }
 
 .day-today {
-  width: 21px;
+  width: 30px;
   height: 21px;
   background: #D4145A;
   color: white;

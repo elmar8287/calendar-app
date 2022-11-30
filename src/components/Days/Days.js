@@ -1,6 +1,7 @@
 import React from "react";
 import "./Days.css";
 import arr from "../data/data";
+import Event from "../Event/Event";
 
 function Days() {
     return (
@@ -18,6 +19,13 @@ function Days() {
                   {
                     e.day===1 ? <span>{e.day} {e.month.substring(0, 3)} </span> :
                     <div className={e.day===16 && "day-today"}>{e.day}</div>
+                  }
+                  {
+                    e.day===16 && 
+                    <div>
+                      <Event />
+                    </div>
+                    
                   }
                 </div>
             ))

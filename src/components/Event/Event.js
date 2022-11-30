@@ -4,7 +4,10 @@ import './Event.css';
 function Event() {
   return (
     <div className='event'>
-        <p>bla bla</p>
+        <ul>
+            <li>09-10 Speaking class
+            </li>
+        </ul>
     </div>
   );
 }
