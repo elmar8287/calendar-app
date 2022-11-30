@@ -1,0 +1,26 @@
+.main-grid {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto;
+  background-color: #2D224C;
+  padding: 10px;
+}
+
+.grid-item {
+  height: 171px;
+  background: #FFFFFF;
+  border-radius: 5px;
+  display: flex;
+  padding: 10px;
+  margin: 2px;
+}
+
+.week-day-name {
+  text-align: center;
+  font-family: 'poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 100.5%;
+  color: #FFFFFF;
+  margin-bottom: 5px;
+}
