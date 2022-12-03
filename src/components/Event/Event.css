@@ -1,0 +1,18 @@
+.event {
+    height: 60px;
+    background: #D9DAF3;
+    border-radius: 4px;
+    margin-top: 10px;
+    text-align: left;
+    width: 155px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 124%;
+    color: #2D224C;
+}
+
+.event ul {
+    list-style-type: circle;
+}
