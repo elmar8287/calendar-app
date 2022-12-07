@@ -20,13 +20,20 @@ function Days() {
                     e.day===1 ? <span>{e.day} {e.month.substring(0, 3)} </span> :
                     <div className={e.day===16 && "day-today"}>{e.day}</div>
                   }
+
                   {
-                    e.day===16 && 
+                    e.day===16 &&
                     <div>
                       <Event />
                     </div>
-                    
                   }
+                   {
+                    e.day===2 &&
+                    <div>
+                      <Event />
+                    </div>
+                  }
+
                 </div>
             ))
         }
